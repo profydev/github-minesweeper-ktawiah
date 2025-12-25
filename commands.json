@@ -1,3 +1,3 @@
 {
-  "commands": ["fetch-data", "update-record", "delete-entry", "list-items"]
+  "commands": []
 }
